@@ -2,6 +2,9 @@
 
 A collection of handy scripts and tasks to optimize your Windows system performance.
 
+**Releases**:
+https://github.com/3libs/ktweaker/releases
+
 ## Features
 
 1. **Clear Temporary Files**  
